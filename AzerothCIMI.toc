@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Azerothcore Can I Mog It?
+## IconTexture: Interface\Addons\CanIMogIt\Icons\KNOWN
+## Author: jabbahotep
+## Version: 1.0.0
+## Notes: Bridges Can I Mog It? with AzerothCore mod-transmog appearance collection.
+## Notes-ruRU: Связывает Can I Mog It? с коллекцией обликов mod-transmog на AzerothCore.
+## Dependencies: CanIMogIt
+## RequiredDeps: CanIMogIt
+## SavedVariables: AzerothCIMICollection
+## X-Category: Transmogrify
+core.lua
